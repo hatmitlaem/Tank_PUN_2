@@ -1,0 +1,2 @@
+E:\hoctap\Unity3d\Photon\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\hoctap\Unity3d\Photon\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
